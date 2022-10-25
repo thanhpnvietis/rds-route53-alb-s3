@@ -1,7 +1,6 @@
 # rds-route53-alb-s3
-<!-- [![Watch the video]()](VPC_Management_Console.mp4) -->
 
-[![Demo CountPages alpha](VPC_Management_Console.mp4)](VPC_Management_Console.mp4)
+[![Demo CountPages alpha]()](https://www.awesomescreenshot.com/video/11978303?key=1385a4fcbef0c2af5eca356f521bfd83)
 
 File .env1
 
