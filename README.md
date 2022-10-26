@@ -10,10 +10,10 @@ https://www.awesomescreenshot.com/video/11978303?key=1385a4fcbef0c2af5eca356f521
 
 File .env1
 
-![env1](env11.png "env11")
+![env1](env1.png "env11")
 
 File .env2
 
-![env2](env21.png "env2")
+![env2](env2.png "env2")
 
 
